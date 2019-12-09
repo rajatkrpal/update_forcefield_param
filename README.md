@@ -22,6 +22,7 @@ The output filename has the naming format <jobname_opls3.dms>
 Run the script from the "example" directory:
 
 cd example
+
 python ../update_opls3_param.py fxr26.txt fxr26
 
 
